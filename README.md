@@ -7,3 +7,6 @@ Most common Chinese characters. Using simplified characters. Source: http://hanz
 ## Korean-Hangul.txt
 Source: https://en.wikipedia.org/wiki/List_of_Hangul_jamo
 
+## Latin-Complete.txt
+Source: https://en.wikipedia.org/wiki/Latin_alphabets
+
