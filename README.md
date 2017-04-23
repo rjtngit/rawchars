@@ -10,3 +10,5 @@ Source: https://en.wikipedia.org/wiki/List_of_Hangul_jamo
 ## Latin-Complete.txt
 Source: https://en.wikipedia.org/wiki/Latin_alphabets
 
+## Japanese-Kanji-Joyo.txt
+Source: https://en.wikipedia.org/wiki/List_of_j%C5%8Dy%C5%8D_kanji
