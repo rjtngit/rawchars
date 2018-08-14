@@ -7,6 +7,9 @@ Source: https://en.wikipedia.org/wiki/CJK_Symbols_and_Punctuation
 ## Chinese-Simplified.txt
 Source: http://hanzidb.org/character-list/by-frequency
 
+## Chinese-Traditional.txt
+Source: https://www.sayjack.com/chinese/simplified-to-traditional-chinese-conversion-table/
+
 ## Cyrillic-Complete.txt
 Source: https://en.wikipedia.org/wiki/Cyrillic_script_in_Unicode
 
