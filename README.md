@@ -1,6 +1,9 @@
 # rawchars
 Raw text files containing characters used in different languages such as English, French, German, Chinese, Japanese, Korean.
 
+## CJK-Symbols.txt
+Source: https://en.wikipedia.org/wiki/CJK_Symbols_and_Punctuation
+
 ## Chinese-Simplified.txt
 Source: http://hanzidb.org/character-list/by-frequency
 
