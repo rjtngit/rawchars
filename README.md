@@ -11,7 +11,7 @@ Source: https://en.wikipedia.org/wiki/Kana
 Source: https://en.wikipedia.org/wiki/List_of_j%C5%8Dy%C5%8D_kanji
 
 ## Korean-Hangul.txt
-Source: https://en.wikipedia.org/wiki/List_of_Hangul_jamo
+Source: http://memory.loc.gov/diglib/codetables/9.3.html
 
 ## Latin-Complete.txt
 Source: https://en.wikipedia.org/wiki/Latin_alphabets
