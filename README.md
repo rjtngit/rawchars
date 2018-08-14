@@ -2,7 +2,10 @@
 Raw text files containing characters used in different languages such as English, French, German, Chinese, Japanese, Korean.
 
 ## Chinese-Simplified.txt
-Most common Chinese characters. Using simplified characters. Source: http://hanzidb.org/character-list/by-frequency
+Source: http://hanzidb.org/character-list/by-frequency
+
+## Cyrillic-Complete.txt
+Source: https://en.wikipedia.org/wiki/Cyrillic_script_in_Unicode
 
 ## Japanese-Kana.txt
 Source: https://en.wikipedia.org/wiki/Kana
