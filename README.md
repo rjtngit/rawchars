@@ -1,6 +1,9 @@
 # rawchars
 Raw text files containing characters used in different languages such as English, French, German, Chinese, Japanese, Korean.
 
+## ASCII-Complete.txt
+Source: https://theasciicode.com.ar/ascii-codes.txt
+
 ## CJK-Symbols.txt
 Source: https://en.wikipedia.org/wiki/CJK_Symbols_and_Punctuation
 
