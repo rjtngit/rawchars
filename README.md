@@ -17,8 +17,9 @@ Source: https://www.sayjack.com/chinese/simplified-to-traditional-chinese-conver
 Source: https://en.wikipedia.org/wiki/Cyrillic_script_in_Unicode
 
 ## Japanese-Complete.txt
-Source: https://en.wikipedia.org/wiki/Kana
-Source: https://en.wikipedia.org/wiki/List_of_j%C5%8Dy%C5%8D_kanji
+Sources:
+- https://en.wikipedia.org/wiki/Kana 
+- https://en.wikipedia.org/wiki/List_of_j%C5%8Dy%C5%8D_kanji
 
 ## Korean-Hangul.txt
 Source: http://memory.loc.gov/diglib/codetables/9.3.html
