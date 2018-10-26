@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+
+<body>
+
+<b>Char Cleaner</b>
+<br>
+Enter all characters here and click the Clean button. Duplicates will be removed and string will be sorted.
+<br>
+
+<textarea id="inputData"></textarea>
+
+<br>
+<button id="cleanButton" onclick="clean()">Clean</button>
+
+<hr>
+
+<b>Output:</b>
+<br>
+<pre id="outputData">
+</pre>
+
+<script>
+
+function clean() {
+	// get input
+	var resultStr = document.getElementById("inputData").value.trim();
+
+	// remove dupes
+	resultStr = unique(resultStr);
+
+	// remove spaces and breaks
+	resultStr = resultStr.replace(/(\r\n\t|\n|\r\t)/gm,"");
+	resultStr = resultStr.replace(" ", "");
+
+	// sort
+	resultStr = resultStr.split('').sort().join('');
+
+
+   	var outputElement = document.getElementById("outputData");
+   	outputElement.innerHTML = resultStr;
+}
+
+function unique(str) {
+  var result = '';
+  for(var i = 0; i < str.length; i++) {
+    if(result.indexOf(str[i]) < 0) {
+      result += str[i];
+    }
+  }
+  return result;
+}
+
+
+</script>
+</body>
+
+</html>
